@@ -69,10 +69,10 @@ python reddit_persona.py <reddit_profile_url>
 
 ```bash
 # Example 1: Generate persona for user 'kojied'
-python reddit_persona.py https://www.reddit.com/user/kojied/
+python3 reddit_persona.py https://www.reddit.com/user/kojied/
 
 # Example 2: Generate persona for user 'amyaurora'
-python reddit_persona.py https://www.reddit.com/user/amyaurora/
+python3 reddit_persona.py https://www.reddit.com/user/amyaurora/
 ```
 
 ### Expected Output
