@@ -54,7 +54,7 @@ pip install requests beautifulsoup4 textstat
 ### Step 3: Verify Installation
 
 ```bash
-python reddit_persona.py --help
+python3 reddit_persona.py --help
 ```
 
 ## 💻 Usage
@@ -62,7 +62,7 @@ python reddit_persona.py --help
 ### Basic Usage
 
 ```bash
-python reddit_persona.py <reddit_profile_url>
+python3 reddit_persona.py <reddit_profile_url>
 ```
 
 ### Examples
