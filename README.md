@@ -36,7 +36,7 @@ This tool scrapes a Reddit user's public profile and creates a detailed persona 
 
 ```bash
 git clone <your-repository-url>
-cd reddit-persona-generator
+cd reddit-persona
 ```
 
 ### Step 2: Install Dependencies
