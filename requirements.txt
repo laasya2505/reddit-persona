@@ -1,0 +1,27 @@
+# Reddit User Persona Generator Requirements
+# Install with: pip install -r requirements.txt
+
+# Web scraping and HTTP requests
+requests>=2.28.0
+beautifulsoup4>=4.11.0
+
+# Text analysis and readability metrics
+textstat>=0.7.0
+
+# Data processing (built-in Python packages, no installation needed)
+# - collections
+# - datetime
+# - re
+# - json
+# - time
+# - os
+# - sys
+# - urllib.parse
+
+# Optional: For enhanced text processing (uncomment if needed)
+nltk>=3.8
+pandas>=1.5.0
+numpy>=1.24.0
+
+# Optional: For Reddit API access (if you want to use PRAW instead of direct scraping)
+praw>=7.6.0
